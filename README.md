@@ -42,13 +42,12 @@ Installation
 git clone https://github.com/EbenEzerManurung/sbadmin2_inventory_ci3.git
 ************
 
-
-************
 Login
 as Admin
 admin: eben123
 password: 123456
 
+************
 as Petugas
 petugas: PTGS35
 password: 123456
